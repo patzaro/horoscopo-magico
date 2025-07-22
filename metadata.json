@@ -1,0 +1,6 @@
+{
+  "name": "Horóscopo Mágico",
+  "description": "Una aplicación de horóscopo que utiliza IA para generar predicciones diarias divertidas y creativas para cada signo del zodiaco, como si las dijera una pitonisa.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
