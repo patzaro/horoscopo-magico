@@ -1,14 +1,9 @@
-# Run and deploy your AI Studio app
+# Horóscopo mágico
 
-This contains everything you need to run your app locally.
+App creada para probar cómo publicar una app que emplea una API key.
 
-## Run Locally
+1. Diseño en Google AI Studio.
+2. Subo la aplicación a GitHub.
+3. Despliego la app en Vercel.
 
-**Prerequisites:**  Node.js
 
-
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
