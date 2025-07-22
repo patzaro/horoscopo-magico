@@ -1,6 +1,6 @@
 # Horóscopo mágico
 
-App creada para probar cómo publicar una app que emplea una API key.
+App creada para probar cómo emplear una API key en una app.
 
 1. Diseño en Google AI Studio.
 2. Subo la aplicación a GitHub.
